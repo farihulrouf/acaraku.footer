@@ -1,0 +1,23 @@
+
+
+@media all and (max-width: 1000px) {
+    .footer-content {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+
+	}
+
+	.dapps img {
+    	width: 200px;
+	}
+
+	.copy-right {
+	    margin-top: 20px;
+	    font-size: 10px;
+	    text-align: center;
+	    width: 70%;
+	}
+
+
+}
