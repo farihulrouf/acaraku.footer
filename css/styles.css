@@ -1,0 +1,55 @@
+
+a {
+
+	text-decoration: none;
+	color: black;
+}
+
+li {
+	list-style: none;
+	margin-top: 10px;
+}
+footer {
+
+}
+
+.footer-content {
+	margin-right: 10%;
+	margin-left: 10%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.contactus img {
+	width: 150px;
+}
+
+.information {
+
+}
+.dapps {
+	display: flex;
+	flex-direction: column;
+}
+
+.dapps img {
+	width: 100%;
+}
+
+
+.mediapartner {
+
+}
+
+.mediapartner img {
+	width: 200px;
+}
+
+.copy-right {
+	margin-top: 20px;
+	font-size: 10px;
+}
+
+
+
+
