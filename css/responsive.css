@@ -5,20 +5,45 @@
     .footer-content {
 		width: 100%;
 		display: flex;
-		flex-direction: column;
+		flex-wrap: wrap;
 
+	}
+
+	li {
+		font-size: 12px;
+	}
+
+	.text-contactus{
+		font-size: 12px;
+	}
+	.contactus {
+		width: 50%;
+	}
+
+	.information{
+		width: 50%;
+	}
+
+	.downloadapp {
+		width: 50%;
+	}
+
+	.mediapartner {
+		width: 50%;
 	}
 
 	.dapps img {
-    	width: 200px;
+    	width: 150px;
+	}
+
+	.mediapartner img {
+		width: 110px;
 	}
 
 	.copy-right {
-	    margin-top: 20px;
-	    font-size: 10px;
-	    text-align: center;
-	    width: 70%;
+	    width: 100%;
 	}
+
 
 
 }
