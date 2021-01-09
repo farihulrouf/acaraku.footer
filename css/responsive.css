@@ -8,6 +8,9 @@
 		flex-wrap: wrap;
 
 	}
+	.logo-site {
+		margin: 0;
+	}
 
 	li {
 		font-size: 12px;
