@@ -48,6 +48,7 @@ h4 {
 
 .dapps img {
 	width: 100%;
+	margin: 5px;
 }
 
 
@@ -56,7 +57,15 @@ h4 {
 }
 
 .mediapartner img {
-	width: 200px;
+	width: 170px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.logo-partner {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
 }
 
 .copy-right {

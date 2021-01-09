@@ -34,10 +34,13 @@
 
 	.dapps img {
     	width: 150px;
+    	margin: 5px;
 	}
 
 	.mediapartner img {
 		width: 110px;
+		margin-bottom: 5px;
+		margin-top: 5px;
 	}
 
 	.copy-right {
